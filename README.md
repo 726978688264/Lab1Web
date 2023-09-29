@@ -1,31 +1,31 @@
 *Membuat Repository*
 
-4. Membuat file baru dengan nama `lab1_tag_dasar.html`
+1. Membuat file baru dengan nama `lab1_tag_dasar.html`
 ![7.png](https://github.com/726978688264/Lab1Web/blob/main/7.png)
-5. dan buatlah Struktur HTML dan `lab1_tag_dasar.html`
+2. dan buatlah Struktur HTML dan `lab1_tag_dasar.html`
 ![8.png](https://github.com/726978688264/Lab1Web/blob/main/8.png)
-6. Lalu buka Live Preview atau atau Jaringan Localhost di Browser
+3. Lalu buka Live Preview atau atau Jaringan Localhost di Browser
 ![9.png](https://github.com/726978688264/Lab1Web/blob/main/9.png)
-7. Ubah titel menjadi Tag HTML dasar
+4. Ubah titel menjadi Tag HTML dasar
 ![10.png](https://github.com/726978688264/Lab1Web/blob/main/10.png)
 ![11.png](https://github.com/726978688264/Lab1Web/blob/main/11.png) 
-8. Membuat 2 Paragraf menggunkan tag <p></p>
+5. Membuat 2 Paragraf menggunkan tag <p></p>
 ![12.png](https://github.com/726978688264/Lab1Web/blob/main/12.png)
 Maka Tampilannya Sebagai Berikut
 ![13.png](https://github.com/726978688264/Lab1Web/blob/main/13.png)
-9. Kemudian mengatur atribut paragraf dengan menggunakan atribut align-center dan right
+6. Kemudian mengatur atribut paragraf dengan menggunakan atribut align-center dan right
 ![14.png](https://github.com/726978688264/Lab1Web/blob/main/14.png)
 Dan tampilannya
 ![15.png](https://github.com/726978688264/Lab1Web/blob/main/15.png)
-10. Membuat judul halaman dengan tag h1 dan h2 dengan mengubah tampilan font
+7. Membuat judul halaman dengan tag h1 dan h2 dengan mengubah tampilan font
 ![16.png](https://github.com/726978688264/Lab1Web/blob/main/16.png)
 Lalu tampilannya
 ![17.png](https://github.com/726978688264/Lab1Web/blob/main/17.png)
-11. Menambahkan gambar pada dokumen menggunakan tag img
+8. Menambahkan gambar pada dokumen menggunakan tag img
 ![18.png](https://github.com/726978688264/Lab1Web/blob/main/18.png)
 lalu tampilannya
 ![19.png](https://github.com/726978688264/Lab1Web/blob/main/19.png)
-12. Membuat link navigasi dengan menggunakan tag nav dan a
+9. Membuat link navigasi dengan menggunakan tag nav dan a
 ![20.png](https://github.com/726978688264/Lab1Web/blob/main/20.png)
 dan tampilan hyperlink 
 ![21.png](https://github.com/726978688264/Lab1Web/blob/main/21.png)
